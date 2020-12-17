@@ -1,0 +1,41 @@
+{
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "cfexampleapi"
+          }
+        },
+        "id": "303",
+	"url": "http://www.root.cz",
+        "type": "Entry",
+        "createdAt": "2013-11-06T09:45:27.475Z",
+        "updatedAt": "2013-11-18T09:13:37.808Z",
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "dog"
+          }
+        },
+        "locale": "en-US",
+	"value": "2.2"
+      },
+      "fields": {
+        "name": "Doge",
+        "head_cs": "head_cs",
+        "head_de": "head_de",
+        "head_en": "head_en",
+        "ghead": "ghead",
+        "description": "such json\nwow",
+        "image": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1x0xpXu4pSGS4OukSyWGUK"
+          }
+        }
+      }
+}

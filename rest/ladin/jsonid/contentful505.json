@@ -1,0 +1,40 @@
+{
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "cfexampleapi"
+          }
+        },
+        "id": "505",
+        "type": "Entry",
+        "createdAt": "2013-06-27T22:46:20.821Z",
+        "updatedAt": "2013-08-27T10:09:07.929Z",
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "cat"
+          }
+        },
+        "locale": "en-US",
+        "url" : "http://www.root.cz",
+	"value": "0.0"
+      },
+      "fields": {
+        "name": "Garfield",
+        "head_cs": "head_cs",
+        "head_de": "head_de",
+        "head_en": "head_en",
+        "ghead": "ghead",
+        "likes": [
+          "lasagna"
+        ],
+        "color": "orange",
+        "birthday": "1979-06-18T23:00:00+00:00",
+        "lifes": null,
+        "lives": 9
+      }
+}

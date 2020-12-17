@@ -1,0 +1,38 @@
+{
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "cfexampleapi"
+          }
+        },
+        "id": "202",
+	"url": "http://www.root.cz",
+        "type": "Entry",
+        "createdAt": "2014-02-21T13:42:57.752Z",
+        "updatedAt": "2014-08-23T14:42:35.207Z",
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "1t9IbcfdCk6m04uISSsaIK"
+          }
+        },
+        "locale": "en-US",
+	"value": "1.1"
+      },
+      "fields": {
+        "name": "London",
+        "head_cs": "head_cs",
+        "head_de": "head_de",
+        "head_en": "head_en",
+        "ghead": "ghead",
+	"likes": [],
+        "center": {
+          "lon": -0.12548719999995228,
+          "lat": 51.508515
+        }
+      }
+}
